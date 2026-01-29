@@ -8,7 +8,7 @@ Yakusoku Labs is an **AI native builder** diving deep into cutting-edge research
 
 We operate at **high velocity** with a **super low head count**, channeling our focus entirely on what matters most: **pushing the needle forward**. 
 
-Every domain we explore, every piece of research we undertake, is translated into practical, impactful applications that solve real problems today—not tomorrow.
+Every domain we explore, every piece of research we undertake, is translated into practical, impactful applications that solve real problems today-not tomorrow.
 
 ## What Drives Us
 

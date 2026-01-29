@@ -20,4 +20,4 @@ Every domain we explore, every piece of research we undertake, is translated int
 
 ---
 
-*We're not just building for the future—we're building the future, today.*
+*We're not just building for the future-we're building the future, today.*

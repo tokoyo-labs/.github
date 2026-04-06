@@ -1,8 +1,8 @@
-# Yakusoku Labs
+# Tokoyo Labs
 
 ## About Us
 
-Yakusoku Labs is an **AI native builder** diving deep into cutting-edge research and diverse domains to create **immediately useful applications** for both consumers and enterprises.
+Tokoyo Labs is an **AI native builder** diving deep into cutting-edge research and diverse domains to create **immediately useful applications** for both consumers and enterprises.
 
 ## Our Approach
 
